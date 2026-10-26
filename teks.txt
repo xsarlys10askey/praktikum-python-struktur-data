@@ -1,0 +1,4 @@
+Sistem informasi membantu mahasiswa mengelola data akademik.
+Data akademik dapat digunakan untuk mendukung proses pembelajaran.
+Sistem informasi juga membantu dosen mengelola data mahasiswa.
+Data yang terkelola dengan baik dapat meningkatkan kualitas informasi.
